@@ -419,9 +419,6 @@
           "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA_C",
           "/Game/PrimalEarth/Dinos/Tapejara/Tapejara_Character_BP.Tapejara_Character_BP_C",
           "/Game/Extinction/Dinos/GasBag/GasBags_Character_BP.GasBags_Character_BP_C",
-          "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_ZombieFire.Wyvern_Character_BP_ZombieFire_C",
-          "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_ZombieLightning.Wyvern_Character_BP_ZombieLightning_C",
-          "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_ZombiePoison.Wyvern_Character_BP_ZombiePoison_C",
           "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire_C",
           "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning_C",
           "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison_C",
@@ -432,13 +429,13 @@
           0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
           0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
           0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-          0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          0, 0, 0, 0, 0, 0, 0
         ],
         "chancetoget": [
           1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
           1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
           1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
-          1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+          1, 1, 1, 1, 1, 1, 1
         ],
         "minmaxlevel": [
           "270/270,0/0,0/0,0/0,0/0,0/0,0/0,0/0,0/2,0/2,0/2,0/2,0/2,0/2,0/2",
@@ -477,27 +474,21 @@
           "210/210,0/0,0/0,0/0,0/0,0/0,0/0,0/0,0/2,0/2,0/2,0/2,0/2,0/2,0/2",
           "210/210,0/0,0/0,0/0,0/0,0/0,0/0,0/0,0/2,0/2,0/2,0/2,0/2,0/2,0/2",
           "210/210,0/0,0/0,0/0,0/0,0/0,0/0,0/0,0/2,0/2,0/2,0/2,0/2,0/2,0/2",
-          "210/210,0/0,0/0,0/0,0/0,0/0,0/0,0/0,0/2,0/2,0/2,0/2,0/2,0/2,0/2",
-          "210/210,0/0,0/0,0/0,0/0,0/0,0/0,0/0,0/2,0/2,0/2,0/2,0/2,0/2,0/2",
-          "210/210,0/0,0/0,0/0,0/0,0/0,0/0,0/0,0/2,0/2,0/2,0/2,0/2,0/2,0/2",
           "270/270,0/0,0/0,0/0,0/0,0/0,0/0,0/0,0/2,0/2,0/2,0/2,0/2,0/2,0/2"
         ],
         "breeders": [
           true, true, true, true, true, true, true, true, true, true,
           true, true, true, true, true, true, true, true, true, true,
           true, true, true, true, true, true, true, true, true, true,
-          true, true, true, true, true, true, true, true, true, true
+          true, true, true, true, true, true, true
         ],
         "chancetousecolors": [
           0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25,
           0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25,
           0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25,
-          0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25
+          0.25, 0.25, 0.25, 0.25, 0.25, 0.25, 0.25
         ],
         "012345colors": [
-          "1/1/1/1/1/1",
-          "1/1/1/1/1/1",
-          "1/1/1/1/1/1",
           "1/1/1/1/1/1",
           "1/1/1/1/1/1",
           "1/1/1/1/1/1",
